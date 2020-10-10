@@ -8,14 +8,41 @@ body {
   height: 90px;
 }
 
-/* Change main's background-color to #bdf7f1, and height to 600px */
+body {
+  font-family: "Avenir Next";
+}
+
+li {
+  list-style: none;
+  float: left;
+  /* Change the top&bottom padding to 33px, and left&right padding to 20px */
+  padding: 33px 20px;
+  
+}
+
+.header {
+  background-color: #26d0c9;
+  color: #fff;
+  height: 90px;
+}
+
+.header-logo {
+  float: left;
+  font-size: 36px;
+  /* Change the top&bottom padding to 20px, and left&right padding to 40px */
+  padding: 20px 40px;
+  
+}
+
 .main {
   background-color: #bdf7f1;
   height: 600px;
 }
 
-/* Change footer's background-color to #ceccf3, and height to 270px */
 .footer {
   background-color: #ceccf3;
   height: 270px;
 }
+
+
+
