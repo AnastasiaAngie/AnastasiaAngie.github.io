@@ -1,22 +1,21 @@
-h1 {
-  color: #e6855e;
-  font-size: 30px;
-  /* Change the background-color to #f3f372 */
-  background-color: #f3f372;
-  
-  /* Change the height to 80px */
-  height: 80px;
-  
-  /* Change the width to 200px */
-  width: 200px;
-  
+body {
+  font-family: "Avenir Next";
 }
 
-img {
-  /* Change the height to 50px */
-  height: 50px;
-  
-  /* Change the width to 70px */
-  width: 70px;
-  
+/* Change header's background-color to #f7f2b4, and height to 90px */
+.header {
+  background-color: #f7f2b4;
+  height: 90px;
+}
+
+/* Change main's background-color to #bdf7f1, and height to 600px */
+.main {
+  background-color: #bdf7f1;
+  height: 600px;
+}
+
+/* Change footer's background-color to #ceccf3, and height to 270px */
+.footer {
+  background-color: #ceccf3;
+  height: 270px;
 }
